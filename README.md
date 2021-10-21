@@ -1,6 +1,8 @@
-# E/PRO Backend API
+# Backend API for Fitness App
 
-- Setup for running on localhost:5000
+This is the backend API for [Fitness App](https://github.com/tonyzhao626/fitness-app).
+
+## Running
 
 ```bash
 $ python3 -m venv venv
@@ -23,6 +25,8 @@ $ export SECRET_KEY='code generated above'
 ```bash
 (venv)$ flask run
 ```
+
+API will run at http://localhost:5000
 
 ## Routes
 
